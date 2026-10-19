@@ -1,0 +1,23 @@
+{
+  "training_timestamp": 1791708965.2646723,
+  "total_samples": 9460,
+  "class_distribution": {
+    "down_breakdowns_0": 274,
+    "choppy_neutral_1": 8991,
+    "bullish_breakouts_2": 195
+  },
+  "symbols_used": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "SOLUSDT",
+    "DOGEUSDT",
+    "SUIUSDT",
+    "AVAXUSDT",
+    "NEARUSDT",
+    "LINKUSDT",
+    "ADAUSDT",
+    "XRPUSDT"
+  ],
+  "hgb_score": 0.9602536997885835,
+  "mlp_score": 0.9504228329809725
+}
